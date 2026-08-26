@@ -4,7 +4,7 @@ A retro game-style pixel font composed of square dots.
 
 ## Overview
 - Font Name: HRB-Sans
-- Format: TTF
+- Format: TTF EOT WOFF
 - Characters Included: Alphanumeric characters only (A-Z, a-z, 0-9)
 
 ## Recommended Tool for SVG Conversion
