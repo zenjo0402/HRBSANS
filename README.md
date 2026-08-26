@@ -36,3 +36,4 @@ The creator assumes no responsibility or liability for any damages or disadvanta
 ---
 ### Changelog
 - August 26, 2026: v1.0.0 Released
+- August 26, 2026: v1.0.1 Released
